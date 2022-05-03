@@ -2,6 +2,8 @@
   <h1> 100 Günde Javascript</h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="150px">
 </div>
+
+
 - 100 Gün boyunca çalışmalarımı buradan takip edebilir, hızlı bir şekilde tekrar yapabilir veya paylaştığım kaynaklardan yararlanabilirsiniz.
  
 - Bu repo sayesinde birçok kursun içeriğine ve kendi içeriklerime rahatlıkla ulaşabilirsiniz. En ufak detaya dahi yer vereceğim. 

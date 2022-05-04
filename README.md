@@ -23,3 +23,10 @@
 - console.log(), alert(), console.error(), console.warn() ve console.clear() komutları 
 - Değişken tanımlama kuralları ve veri türleri
 - var, let ve const farkı
+
+## 2.Gün
+- Tip Dönüşümleri
+- Aritmetik Operatörler
+- Math Objesi
+- String Metotları
+- Template Literal

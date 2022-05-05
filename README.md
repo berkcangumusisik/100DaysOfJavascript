@@ -30,3 +30,7 @@
 - Math Objesi
 - String Metotları
 - Template Literal
+
+## 3.Gün
+- Zaman İşlemler 
+- Diziler Giriş 

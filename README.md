@@ -34,3 +34,9 @@
 ## 3.Gün
 - Zaman İşlemler 
 - Diziler Giriş 
+
+## 4.Gün
+- Dizi Metotları
+- Dizi Örnek Uygulama
+- Mantıksal Operatörler
+- Karşılaştırma Operatörleri

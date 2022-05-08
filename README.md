@@ -40,3 +40,8 @@
 - Dizi Örnek Uygulama
 - Mantıksal Operatörler
 - Karşılaştırma Operatörleri
+
+## 5.Gün
+- If - Else - Else If Kullanımı
+- Switch - Case Kullanımı
+- If Else Uygulama Örnekleri

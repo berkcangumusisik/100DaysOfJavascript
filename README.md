@@ -52,3 +52,10 @@
 - While Döngüsü
 - Do-While Döngüsü
 - Döngüler Uygulama
+
+## 7.Gün
+- Fonksiyonlar
+- Fonksiyonların Kullanımı
+- Immediately Invoked Function Expression (IIFE)
+- Return Kullanımı
+- Fonksiyon Uygulama

@@ -59,3 +59,10 @@
 - Immediately Invoked Function Expression (IIFE)
 - Return Kullanımı
 - Fonksiyon Uygulama
+
+## 8.Gün
+- Alert Kullanımı
+- Confirm Kullanımı
+- Window Objesi ve Prompt Kullanımı
+- Sayfa Yenileme
+- Scope Kavramı

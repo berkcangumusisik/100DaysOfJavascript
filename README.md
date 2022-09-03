@@ -66,3 +66,8 @@
 - Window Objesi ve Prompt Kullanımı
 - Sayfa Yenileme
 - Scope Kavramı
+
+# 9.Gün
+- DOM Kavramı
+- Dom Nedir?
+- 

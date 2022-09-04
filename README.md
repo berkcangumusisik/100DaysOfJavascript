@@ -67,7 +67,10 @@
 - Sayfa Yenileme
 - Scope Kavramı
 
-# 9.Gün
+## 9.Gün
 - DOM Kavramı
 - Dom Nedir?
-- 
+
+## 10.Gün
+- DOM Element Seçme
+- Elementleri Seçme ve Style Özelliklerini Değiştirme

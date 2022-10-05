@@ -77,3 +77,8 @@
 
 ## 11.Gün
 - Elementler Arasında Gezinme
+
+## 12.Gün
+- Element Oluşturma
+- Element Silme
+- Elementleri Değiştirme
